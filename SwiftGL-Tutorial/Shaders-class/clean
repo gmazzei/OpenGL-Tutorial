@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm Package.resolved
-rm -fr .build
+rm Package.resolved &>/dev/null
+rm -fr .build &>/dev/null
