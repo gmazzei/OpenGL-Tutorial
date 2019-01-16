@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm Package.resolved &>/dev/null
+rm -fr .build &>/dev/null
